@@ -1,4 +1,4 @@
-# Infinity schema.
+# Infinity types.
 
 The terminogy for `_:` namespace of [MFT-1](https://book.mindey.com/metaformat/0002-data-object-format/0002-data-object-format.html).
 
