@@ -16,17 +16,19 @@ The same could be said about many other things. For example, analogously the `"S
 
 **Implications:** Since these categories appear to be properties of all `"Things"`, it is reasonable to treat them as shared properties of all `"Things"`, and require answers to questions about all of them to consider things _contextually understood_:
 
-## Superclasses of "Thing"
+## Superclasses of "Thing" ("Entity")
+
+We consider concept of "Thing" ("Entity") to be indivisible, every "thing" is a thing, because it acts and interacts (even if it is just thought of). So, what are the more fundamental properties of existence? You could call them processes with some SUBSTANCE, PRESENCE, and ESSENCE.
 
 - `Thing(F, X, Y)`:
-  - `F(domain).assets`:
+  - `F(domain).assets`: ("SUBSTANCE")
     - `.Agent` (who?)
     - `.Place` (where?)
     - `.Event` (when?)
     - `.Topic` (about what?)
-  - `X(process).actions`:
+  - `X(process).actions`: ("PRESENCE")
     - . `doing`
-  - `Y(range).targets`:
+  - `Y(range).targets`: ("ESSENCE")
     - `.Goal` (why?)
     - `.Idea` (how in principle?)
     - `.Plan` (what specifically?)
