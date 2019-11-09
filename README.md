@@ -1,4 +1,4 @@
-# WeFindX Terminology
+# WeFindX Vocabulary
 
 The terminogy for `GH:wefindx/terms` namespace. See the repo [wiki](../../wiki) for content.
 
