@@ -1,10 +1,8 @@
-# Infinity types.
+# WeFindX Terminology
 
-The terminogy for `_:` namespace of [MFT-1](https://book.mindey.com/metaformat/0002-data-object-format/0002-data-object-format.html).
+The terminogy for `GH:wefindx/terms` namespace. See the repo [wiki](../../wiki) for content.
 
-See the repo [wiki](../../wiki) for content.
-
-The aim of this wiki is to work as an organized enrichment to all ontologies (such as [schema.org](https://schema.org)) relying on the concept of `Thing` or `Entity` to explain and summarize all web data and objects, by providing superclasses to the `Thing` class. This vocabulary is designed from the first principles to decompose the [equation model](https://www.youtube.com/watch?v=e3wpZ7yWUNg), namely `F(X)=Y`, where `F` is the world, `Y` is our dream, and `X` is us, who parametrize the world to make equality: `world(we) = dream`. It is outlined and published at [wefindx.net](https://wefindx.net).
+The aim of this wiki is to work as an organized enrichment to all ontologies relying on the concept of `Thing` (`Entity`) to explain and summarize all web data and objects, by providing superclasses to the `Thing` class. This vocabulary is designed from the first principles to decompose the [equation model](https://www.youtube.com/watch?v=e3wpZ7yWUNg), namely `F(X)=Y`, where `F` is the world, `Y` is our dream, and `X` is us, who parametrize the world to make equality: `world(we) = dream`. It is outlined and published at [wefindx.net](https://wefindx.net).
 
 ## Central Hypothesis
 
